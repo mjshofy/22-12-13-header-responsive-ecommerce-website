@@ -1,0 +1,54 @@
+/* google fonts ==========//========== */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+/* font-family: 'Poppins', sans-serif; */
+
+/* base style ==========//========== */
+:root {
+  --clr-primary: #eb7025;
+
+  --clr-black: #222222;
+  --clr-light: #d1e7e2;
+}
+
+::selection {
+  background-color: #212121;
+  color: #d1e7e2;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.5;
+  color: #212121;
+
+  overflow-x: hidden;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+img {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+/* repeated css style ==========//========== */
+
+/* header section style ==========//========== */
+
+/* hamburger menu icon style ==========//========== */
+
+/* mobile navigation style ==========//========== */
+
+/* hero section style ==========//========== */
